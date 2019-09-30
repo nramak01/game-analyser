@@ -16,8 +16,8 @@ Source code location for Analyser project : https://github.com/nramak01/game-ana
 Customised class: analyser.py
 
 # Command to Train the model
-# Please kindly note due to size constraints 
-# unable to upload pre trained coco weight(mask_rcnn_coco.h5) and trained analyser (mask_rcnn_analyser.h5)
+Please kindly note due to size constraints 
+unable to upload pre trained coco weight(mask_rcnn_coco.h5) and trained analyser (mask_rcnn_analyser.h5)
 >> python3 analyser.py train --dataset=/samples/dataset --weights=coco
 # Test Images
 Below location contains all the images used for testing
